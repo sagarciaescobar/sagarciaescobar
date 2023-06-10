@@ -88,4 +88,4 @@
 - 📫 How to reach me: in linkedin or mail
 - 🌱 I’m currently learning android development, three.js and monitoring web apps
 
----
+
