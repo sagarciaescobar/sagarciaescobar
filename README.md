@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
   
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=sagarciaescobar@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=sa.garciaescobar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
