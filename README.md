@@ -2,8 +2,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sagarciaescobar/sagarciaescobar/blob/main/assets/Working-men-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sagarciaescobar/sagarciaescobar/blob/main/assets/Working-men-black.png">
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/Working-men-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="/assets/Working-men-black.png">
     <img width="40%" alt="readme image sagarciaescobar">
   </picture>
 </div>
