@@ -20,7 +20,7 @@
 ---
 
 ### About me: 
-<p margin-left="10px">Im a full stack developer interestes in developing projects with high impact that allow me to explore different technologies and learn new things.I have experience in the development of web applications with React, Node, Express, MongoDB, PostgreSQL, among others. Searching for applying my knowledge and skills in disruptive projects that allow me to grow as a professional and as a person.</p>
+<p margin-left="10px">Im a Full stack developer interests in developing projects with high impact that allow me to explore different technologies and learn new things.I have experience development web applications with React, Node, Express, MongoDB, PostgreSQL, among others. Searching to apply my knowledge and skills in disruptive projects that allow me to grow as a professional and as a person.</p>
 </br>
 
 ---
