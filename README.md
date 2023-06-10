@@ -1,5 +1,15 @@
 <h3 align="center" style="border:none">Hi there, I'm Sergio 👋</h3>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sagarciaescobar/sagarciaescobar/blob/main/assets/Working-men-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sagarciaescobar/sagarciaescobar/blob/main/assets/Working-men-black.png">
+    <img width="40%" alt="stadistics sagarciaescobar">
+  </picture>
+</div>
+
+</br>
+
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/sa-garcia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
